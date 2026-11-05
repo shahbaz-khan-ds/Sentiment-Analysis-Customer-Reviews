@@ -135,13 +135,7 @@ Sentiment-Analysis-Customer-Reviews/
 │
 ├── Sentiment_analyses.ipynb
 ├── README.md
-├── requirements.txt
-│
-└── images/
-    ├── sentiment_distribution.png
-    ├── rating_distribution.png
-    ├── word_frequency.png
-    └── model_comparison.png
+└── requirements.txt
 ```
 
 Add only the image files that you actually export from your notebook.
